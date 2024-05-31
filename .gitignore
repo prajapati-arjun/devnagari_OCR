@@ -1,0 +1,13 @@
+HindiSeg/
+Logs
+CLSTMCTC_best
+Hindi-word-dataset.zip
+Hindi-word-dataset/
+VGG.ipynb
+experiments.ipynb
+model.png 
+crnn_ctc.json
+CLSTMCTC_best.hdf5
+crrn_ctc.hdf5
+CLSTMCTC_model.json
+CLSTMCTC_weights.hdf5
