@@ -21,3 +21,6 @@ what the vocab ID for image "n.jpg" on the line number "n".
 
 From the hindi_vocab file we can get the actual label corr.
 to that word.
+
+#Dataset Link
+https://cvit.iiit.ac.in/images/Projects/wordlevel-Indicscripts/IIIT-HW-Hindi_v1.tar.gz
